@@ -7,9 +7,9 @@
   },
   "server": {
     "ip": "xItz7oltx.aternos.me",
-    "port": 44665,
+    "port":44665,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
