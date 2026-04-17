@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xItz7oltx.aternos.me",
-    "port":44665,
-    "version": "",
+    "ip": "xItz7oltx.aternos.me:44665",
+    "port": 44665,
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
