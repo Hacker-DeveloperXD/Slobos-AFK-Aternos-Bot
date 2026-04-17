@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "xItz7oltx.aternos.me:44665",
-    "port": 44665,
+    "port": false,
     "version": "1.21.11",
     "try-creative": true
   },
