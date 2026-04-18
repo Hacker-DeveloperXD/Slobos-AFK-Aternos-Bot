@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "krishnakarega_afk",
     "password": "",
     "type": "offline"
   },
@@ -12,7 +12,7 @@
     "try-creative": true
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
