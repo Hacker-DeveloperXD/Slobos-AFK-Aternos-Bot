@@ -12,7 +12,7 @@
     "try-creative": true
   },
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
