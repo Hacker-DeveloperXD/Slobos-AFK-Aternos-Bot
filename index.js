@@ -1,9 +1,3 @@
-const http = require('http');
-
-http.createServer((req, res) => {
-  res.write("Bot is Online!");
-  res.end();
-}).listen(8080);
 "use strict";
 
 const { addLog, getLogs } = require("./logger");
